@@ -1,7 +1,7 @@
-=== WebP, Image Optimization, CDN, Service Worker & Client Hints All in One ===
+=== AVIF, WebP, Image Optimization, CDN, Service Worker & Client Hints All in One ===
 Contributors: imghaste, Sociality
 Donate link: https://www.imghaste.com/
-Tags: WebP, Optimize Images, Compress Images, Service Worker, Image CDN, Client Hints
+Tags: AVIF, WebP, Optimize Images, Compress Images, Service Worker, Image CDN, Client Hints
 Requires at least: 3.0.1
 Tested up to: 5.6.0
 Stable tag: trunk
